@@ -29,9 +29,17 @@ button {
 }
 
 #increment-btn {
+    background: darkblue;
+}
+
+#decrement-btn {
     background: darkred;
 }
 
 #save-btn {
     background: darkgreen;
+}
+
+#reset-btn {
+    background: darkgoldenrod;
 }

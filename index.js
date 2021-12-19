@@ -30,11 +30,11 @@ function increment() {
     document.getElementById("count-el").textContent = count;
 }
 
-// function decrement() {
-//     //console.log("The button was clicked!")
-//     count -= 1;
-//     document.getElementById("count-el").textContent = count;
-// }
+function decrement() {
+    //console.log("The button was clicked!")
+    count -= 1;
+    document.getElementById("count-el").textContent = count;
+}
 
 function save() {
     countMessage = count + ", ";
