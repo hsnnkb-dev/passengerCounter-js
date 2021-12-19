@@ -6,6 +6,9 @@ body {
     text-align: center;
 }
 
+
+/* Heading elements */
+
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -16,6 +19,9 @@ h2 {
     margin-top: 0;
     margin-bottom: 20px;
 }
+
+
+/* Button elements */
 
 button {
     border: none;
